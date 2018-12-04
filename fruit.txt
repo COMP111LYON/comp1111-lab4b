@@ -4,3 +4,6 @@ orange
 peach
 pear
 grape
+watermelon
+strawberry
+pineapple
