@@ -4,3 +4,6 @@ picture
 clothes
 keyboard
 mouse
+airball
+desk
+chair
