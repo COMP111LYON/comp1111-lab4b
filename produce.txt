@@ -1,3 +1,6 @@
 callphone
 computer
 picture
+clothes
+keyboard
+mouse
